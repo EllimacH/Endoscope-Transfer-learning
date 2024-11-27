@@ -1,2 +1,2 @@
 # Endoscope-Transfer-learning
-Transfer learning to endoscopy images quality classification
+ResNet50 + DINOv1
